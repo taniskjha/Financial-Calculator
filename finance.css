@@ -1,0 +1,20 @@
+.bg-dark {
+  background-color: black !important;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bolder !important;
+  
+}
+.input-group-addon {
+  background-color: green !important;
+  color: white;
+}
+.btn {
+  background-color: red;
+  color: white;
+  font-weight: bolder;
+}
+
+.row {
+  background-color: black !important;
+}
+
